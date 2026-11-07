@@ -1,0 +1,49 @@
+THE COVE RESTAURANT — ACCESSIBILITY AND QUALITY REVIEW
+Reviewed November 7, 2026
+Target: WCAG 2.2 Level AA
+
+COMPLETED CHECKS
+- axe-core 4.10.3 automated WCAG A/AA checks on all four HTML pages, each at
+  iframe widths of 320, 390, 768 and 1280 pixels: zero detected violations.
+  Effective content widths were 305, 375, 753 and 1265 pixels after scrollbars.
+- No horizontal page overflow at any of those tested widths.
+- Decorative menu/arrow glyphs were flagged for manual contrast review only.
+  They inherit the surrounding high-contrast text colors and have visible
+  text labels; decorative glyphs are hidden from assistive technology.
+- Static review found checked text color pairs ranging from 5.3:1 to 11.0:1,
+  exceeding the 4.5:1 requirement for normal text.
+- One H1 on each page, logical heading levels, English document language,
+  landmarks, meaningful page titles and descriptive link text.
+- Image alternatives describe the actual assets; the logo is decorative
+  inside a home link that has an accessible name.
+- Skip-to-main link verified with Tab then Enter; focus moved to main content.
+- Mobile navigation opened and closed; Escape returned focus to its button.
+- FAQ expanded using the keyboard.
+- Search tested with a matching term, an unmatched term, Clear, and category
+  navigation. A category-level search for "burger" returned the expected
+  seven entries after including shared category text in the search.
+- Search results use a polite status announcement; no focus is moved as typed.
+- Core navigation and the complete menu are present in HTML without JavaScript.
+- Visible focus indicators, generous control targets and native link/button
+  semantics; no drag-only controls, automatic carousels, or time limits.
+- Reduced-motion preference respected; no essential animation.
+- Print styling includes the complete menu, even after a search.
+- All internal page links, fragment links and referenced asset files resolve.
+- JavaScript syntax check passed.
+- Relative local assets and no fetch/module/backend dependency support direct
+  file viewing after ZIP extraction. Internet access is only needed when
+  following external services such as Maps or Facebook.
+
+SCOPE AND LIMITS
+These checks support the WCAG 2.2 AA design target but are not an independent
+conformance certification. A complete audit also includes assistive-technology
+and browser combinations, zoom and user stylesheet scenarios, and testing by
+people with disabilities. Those broader evaluations were not completed here.
+
+The original restaurant PDF is untagged and is not claimed to be accessible.
+The complete HTML menu is provided as the primary accessible alternative.
+Google Maps and Facebook are third-party services outside this site's control.
+
+When changing the site, preserve labels, semantic headings, visible focus,
+contrast, keyboard behavior and the HTML menu. Recheck responsive layouts and
+accessibility after changing colors, typography, navigation or content.

@@ -1,0 +1,67 @@
+THE COVE RESTAURANT WEBSITE
+==========================
+
+VIEW ON YOUR COMPUTER
+1. Right-click the ZIP and choose Extract All.
+2. Open the extracted folder.
+3. Double-click index.html. It opens in your default browser.
+
+Keep the assets folder alongside the HTML files. Opening index.html inside
+an unextracted ZIP, or moving it by itself, can prevent images and styling
+from loading. No installation, web server, database, or build command is needed.
+
+UPLOAD TO YOUR WEB HOST
+Upload these four files to the website's public folder:
+  index.html
+  menu.html
+  visit.html
+  accessibility.html
+Upload the ENTIRE assets folder to that same public folder, preserving its
+subfolders and filenames. Do not flatten the folders or upload only the HTML.
+
+The public folder is often called public_html, www, or htdocs. For drag-and-drop
+static hosting, select the extracted folder containing index.html and assets.
+You can keep this README and the two review notes for your own reference;
+they are not required on the live website.
+
+If replacing an older PHP website, configure the host's default document to
+use index.html. An existing index.php may otherwise take precedence. Back up
+the current site and review the replacement before switching it live.
+
+After uploading, refresh with Ctrl+F5. If a host or CDN caches old files, purge
+that cache as well. An assets folder normally uploads immediately; waiting
+does not repair missing files or an incorrect folder structure.
+
+WHAT IS INCLUDED
+- A responsive home page with the restaurant's photographs and story.
+- A full HTML menu with 75 entries, prices, category navigation and search.
+- The restaurant's original menu PDF.
+- Hours, contact information, directions and visit FAQs.
+- Accessibility information, keyboard focus, skip links and reduced motion.
+- All styles, scripts, images and favicon stored locally.
+
+OFFLINE AND ONLINE BEHAVIOR
+The site, images, text menu and search work without an internet connection.
+The PDF is included. Google Maps and Facebook need internet access. Phone and
+email links require a suitable app on the visitor's device. Contact is through
+the published restaurant phone and email; there is no booking or order backend.
+
+EDITING
+The HTML is the editable source; no framework is required.
+- Home/story/entertainment: index.html
+- Dishes/prices/dietary notes: menu.html
+- Hours/contact/FAQs: visit.html
+- Accessibility wording: accessibility.html
+- Design and responsive layouts: assets/styles.css
+- Navigation and menu search: assets/site.js
+- Photos/logo: assets/images/
+- Original PDF: assets/documents/cove-menu.pdf
+
+Hours and contact details also appear in shared page headers/footers and
+structured data in index.html. Keep repeated facts consistent when editing.
+Menu HTML and the PDF must both be updated when the restaurant changes its menu.
+All navigation is relative, so the site can run at a domain root or subfolder.
+
+Before launch, have the restaurant verify its hours, menu prices, service
+charges, dietary notes, contact information and entertainment schedule.
+See SOURCE-NOTES.txt and ACCESSIBILITY-CHECKS.txt for sources and review scope.

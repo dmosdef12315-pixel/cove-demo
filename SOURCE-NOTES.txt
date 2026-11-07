@@ -1,0 +1,59 @@
+THE COVE RESTAURANT — CONTENT AND ASSET SOURCES
+Reviewed November 7, 2026
+
+Official source website: https://www.thecoveri.com/
+Home/story/hours: https://www.thecoveri.com/index.php
+Contact: https://www.thecoveri.com/contact.php
+Directions: https://www.thecoveri.com/directions.php
+Entertainment: https://www.thecoveri.com/entertainment.php
+Current linked menu: https://www.thecoveri.com/CoveMenu042226.pdf
+
+The PDF title is "Menu May - 2026" and its metadata dates it to April 22, 2026.
+The newer live navigation link was used instead of older PDFs in search results.
+The HTML contains 75 menu entries across 11 categories. Dish names, prices,
+ingredients and options were transcribed; descriptions were rewritten for
+concise reading. Gluten-free-option and undercooked-food advisory markers
+follow the original menu. No additional allergen-free claims were inferred.
+The PDF itself is an unchanged copy of the restaurant's file.
+
+Facts retained from official pages:
+- Family-run restaurant, opened October 4, 2000.
+- 3963 Old Post Road, Charlestown, RI 02813.
+- (401) 364-9222; marisa@thecoveri.com.
+- Monday closed; Tuesday–Thursday 11:30 am–9 pm; Friday 11:30 am–10 pm;
+  Saturday 11:30 am–9 pm; Sunday noon–9 pm.
+
+Some third-party listings show Sunday closing at 8 pm. The official site
+repeatedly states 9 pm, which is the value used here. Confirm before launch.
+
+The official entertainment page advertises Friday karaoke featuring Jeffrey
+Thomas, but contains no start time or dated schedule. The redesign invites
+visitors to ask about Friday karaoke and confirm current dates/times by phone
+or Facebook. It does not invent an event calendar, tickets or reservations.
+No waterfront dining, ocean view, parking or physical access claims were inferred.
+
+Original image mapping (all files are unmodified originals):
+assets/images/cove-logo.png
+  https://www.thecoveri.com/CoveLogo126x89.png
+assets/images/restaurant-banner.jpg
+  https://www.thecoveri.com/CoveRestaurant2000x650V2.jpg
+assets/images/welcome-home.jpg
+  https://www.thecoveri.com/interior/WelcomeHome1000x667.jpg
+assets/images/bar.jpg
+  https://www.thecoveri.com/interior/Bar1000x667.jpg
+assets/images/bottles.jpg
+  https://www.thecoveri.com/interior/Bottles1000x667.jpg
+assets/images/fireplace.jpg
+  https://www.thecoveri.com/interior/Fireplace1000x667.jpg
+assets/images/charlestown.jpg
+  https://www.thecoveri.com/Charlestown600x410.jpg
+
+The welcome-home file depicts the restaurant exterior. The Charlestown image
+is an illustration, not a navigation map. The original banner and bottles
+photo are retained as optional assets; the new design uses the other images.
+No stock or generated food photographs were substituted. Original photographs,
+logo, illustration and menu remain the property of their respective owners.
+Confirm permission to reuse the original site assets before public launch.
+
+The new site contains public restaurant details only. It includes no customer
+accounts, tracking analytics, third-party font requests or marketing pixels.
