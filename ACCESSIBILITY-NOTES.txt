@@ -1,0 +1,71 @@
+ACCESSIBILITY IMPLEMENTATION AND VALIDATION
+The Cove Restaurant static website — November 7, 2026
+Target: WCAG 2.2 Level AA
+
+IMPLEMENTED
+- Semantic header, main, footer, navigation, section, heading, and table markup.
+- One descriptive H1 and page title per page; document language declared.
+- Skip-to-content link and visible keyboard focus treatment.
+- Responsive mobile navigation with native button, accessible name,
+  aria-expanded/aria-controls, Escape close, and focus restoration.
+- No sticky page header or overlay that obscures focused content.
+- Menu sidebar becomes non-sticky on short and narrow viewports.
+- Descriptive image alternatives; decorative icons hidden from assistive tech.
+- Accessible HTML menu provided instead of requiring a PDF download.
+- Search has a persistent label and polite, atomic results announcements.
+- Search results use hidden to remove unmatched content from all users.
+- GFO explained as an on-request option, not an allergen-free guarantee.
+- Marked dishes are associated with the raw-food advisory.
+- Navigation and primary actions have generous touch targets.
+- High contrast text, controls, and focus indicators.
+- Layout supports narrow screens, enlarged text, and customized text spacing.
+- Reduced-motion preferences disable smooth scrolling/transitions.
+- No autoplay, timed slideshows, drag-only controls, flashing, or CAPTCHAs.
+- All content and ordinary navigation work without JavaScript.
+- No third-party accessibility overlay is required.
+
+CHECKS PERFORMED
+Automated browser checks: axe-core 4.14.0, WCAG 2 A/AA, 2.1 A/AA and 2.2 AA
+rules, on index.html, menu.html, visit.html, and accessibility.html at 320 and
+1280 CSS pixels. Final result: zero detected violations in all eight scans.
+
+Axe's manual-review flags concerned decorative symbols and caption text over
+an image. Symbols are decorative or paired with an accessible name. Caption
+text is white on a nearly opaque navy panel. These were reviewed separately.
+
+Computed color contrast examples:
+  Body text / cream background: 11.56:1
+  Secondary text / cream: 5.76:1
+  Secondary text / shaded panel: 5.11:1
+  Gold / navy: 8.12:1
+  Input border / white: 4.36:1
+  Focus ring / cream: 4.60:1
+
+Browser behavior verified:
+  Mobile navigation opens; Escape closes and returns focus.
+  Skip link focuses the main landmark.
+  Searching 'chowder' returns the matching soup.
+  Unmatched search announces zero results and shows guidance.
+  Category navigation clears search and reaches the selected category.
+  All 75 menu entries remain present when JavaScript is disabled.
+  No document overflow at 320/1280 CSS pixels.
+  No document overflow under tested WCAG text-spacing overrides at 320 pixels.
+  No document overflow under a 200% computed-font-size test at 1280 pixels.
+  Desktop and mobile layouts visually reviewed.
+
+Static validation:
+  Local assets and links/fragments resolve.
+  ARIA references resolve; IDs are unique; images have alt attributes.
+  JavaScript syntax check passed.
+  ZIP integrity check passed.
+
+LIMITS AND FINAL DEPLOYMENT REVIEW
+These checks support the WCAG 2.2 AA target but are not a certification of
+complete conformance. A complete manual assistive-technology evaluation was
+not performed. Before public launch, test with NVDA/Edge and VoiceOver/Safari,
+actual mobile devices, browser zoom, Windows High Contrast, keyboard-only
+navigation, and the final host's behavior. Recheck after content/design edits.
+
+The original source PDF is untagged and has not been remediated. It is an
+optional legacy download; the full HTML menu is the accessible alternative.
+Google Maps and Facebook are external services outside this package.

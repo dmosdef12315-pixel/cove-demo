@@ -1,0 +1,72 @@
+CONTENT AND IMAGE SOURCES
+Retrieved November 7, 2026
+
+Official restaurant name: The Cove Restaurant
+
+Pages consulted:
+https://www.thecoveri.com/
+https://www.thecoveri.com/contact.php
+https://www.thecoveri.com/directions.php
+https://www.thecoveri.com/entertainment.php
+https://www.thecoveri.com/CoveMenu042226.pdf
+
+Source menu: PDF title "Menu May - 2026", created April 22, 2026.
+All menu categories, item prices, choice/add-on notes, and published policies
+are carried into the web menu. Short descriptions are lightly edited for
+readability without adding ingredients or dietary promises.
+
+Business facts retained: family-run, opened October 4, 2000; 3963 Old Post Road,
+Charlestown RI 02813; (401) 364-9222; marisa@thecoveri.com. Current source pages
+show Sunday noon–9 pm, Monday closed, Tuesday–Thursday 11:30 am–9 pm,
+Friday 11:30 am–10 pm, Saturday 11:30 am–9 pm.
+
+The source entertainment page says Friday night karaoke with Jeffrey Thomas
+but supplies no start time. The new site invites guests to call; no time was
+invented. No reservation, delivery, online ordering, physical-access, or
+review/rating claims were invented. Brand headlines and introductory copy
+are new editorial writing grounded in the restaurant's original description.
+
+PRE-LAUNCH CONTENT REVIEW
+The owner should confirm current menu prices, dietary options, published
+payment/gratuity/sharing policies, hours, karaoke schedule, and contact details.
+The PDF has GFO labels on some breaded dishes: these are request-only options,
+not assertions that a standard preparation is gluten-free. No allergy-free
+preparation is promised. Preserve food-allergy and raw-food notices.
+The restaurant should approve continued use of all original website assets.
+
+LOCAL ASSETS AND ORIGINAL URLS
+
+assets/images/cove-logo.png
+https://www.thecoveri.com/CoveLogo126x89.png
+
+assets/images/coastal-banner.jpg
+https://www.thecoveri.com/CoveRestaurant2000x650V2.jpg
+
+assets/images/welcome-home.jpg
+https://www.thecoveri.com/interior/WelcomeHome1000x667.jpg
+
+assets/images/bar.jpg
+https://www.thecoveri.com/interior/Bar1000x667.jpg
+
+assets/images/bar-detail.jpg
+https://www.thecoveri.com/interior/Bottles1000x667.jpg
+
+assets/images/fireplace.jpg
+https://www.thecoveri.com/interior/Fireplace1000x667.jpg
+
+assets/images/charlestown.jpg
+https://www.thecoveri.com/Charlestown600x410.jpg
+
+assets/images/restaurant-building.jpg
+https://www.thecoveri.com/Building2000x538.jpg
+
+assets/images/jeffrey-thomas.jpg
+https://www.thecoveri.com/JeffreyThomas1000x1281.jpg
+
+assets/documents/the-cove-menu.pdf
+https://www.thecoveri.com/CoveMenu042226.pdf
+
+The original logo and source photographs are retained with ordinary web image
+compression; no AI-generated restaurant or food photographs are used.
+Some extra source photographs are bundled for future editing but not displayed.
+The favicon is a simple locally created letter C, not a replacement for the logo.
